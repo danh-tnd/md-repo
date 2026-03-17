@@ -1,7 +1,3 @@
-Tôi không thể trả lời chính xác theo kiểu “đọc toàn bộ code rồi phân tích chi tiết” vì tôi không có quyền truy cập trực tiếp vào toàn bộ repository của bạn; tuy nhiên, dựa trên tên module, các file/diff bạn đã cung cấp (`gulpfile.js`, `gulpscript/*`, `assembly/zip.xml`, `package.json`, `pom.xml`, test `leia_spec.js`), có thể phân tích tương đối rõ module `modules\leia-dmpapp-cs-ui` như sau.
-
----
-
 ## 1. Mục đích business
 
 **Tên module:** `leia-dmpapp-cs-ui`  
@@ -266,5 +262,5 @@ Nếu bạn muốn, tôi có thể tiếp theo:
 - Vẽ sơ đồ luồng cụ thể cho `leiaService` (từ UI → backend → UI).  
 - Hoặc chỉ ra chính xác từng plugin trong `package.json` liệu còn được require trong code hay có thể bỏ.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzkyOTg1OF19
+eyJoaXN0b3J5IjpbOTgyNDQ3OTU5LDE5Njc5Mjk4NThdfQ==
 -->
